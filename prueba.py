@@ -53,7 +53,7 @@ def verificar_mi_usuario():
         messagebox.showerror("Error", "Usuario no válido")
 
 
-# Configuración inicial de CustomTkinter
+# Configuración inicial de CustomTkinter mabsdjksahgdkjsad
 ctk.set_appearance_mode("dark")  # Opciones: "dark", "light", "system"
 ctk.set_default_color_theme("blue")  # Opciones: "blue", "green", "dark-blue"
 
